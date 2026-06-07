@@ -1,3 +1,13 @@
+---
+title: Smart College Placement Predictor
+emoji: 🎓
+colorFrom: blue
+colorTo: indigo
+sdk: streamlit
+sdk_version: "1.51.0"
+app_file: app.py
+pinned: false
+---
 # 🎓 Smart College Placement Predictor
 
 A machine learning web app that predicts student placement probability 
