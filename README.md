@@ -14,7 +14,7 @@ A machine learning web app that predicts student placement probability
 and provides personalized improvement suggestions.
 
 ## 🔴 Live Demo
-👉 [Click here to try the app](https://smart-placement-predictor.streamlit.app/)
+👉 [Click here to try the app](https://arunjunaihariprasath-placement-predictor.hf.space)
 
 ## 🔥 What makes this different
 - Predicts placement probability (not just yes/no)
